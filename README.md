@@ -1,5 +1,4 @@
-<h3 style="text-align:center">《Skilful precipitation nowcasting using deep
-generative models of radar》论文复现</h3>
+<h3 style="text-align:center">《Skilful precipitation nowcasting using deep generative models of radar》论文复现</h3>
 
 ***
 
