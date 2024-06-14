@@ -59,6 +59,6 @@ generative models of radar》论文复现</h3>
 
 <h4>实验结果</h4>
 
-对于模型$DGMR, PySTEPS, UNet, Axial attention$，在 $T + 30, T+60$ 和 $T + 90$ 的未来时间的预测对比
+对于模型DGMR, PySTEPS, UNet, Axial attention，在 $T + 30, T+60$ 和 $T + 90$ 的未来时间的预测对比
 
 [![pkd7rCj.png](https://s21.ax1x.com/2024/06/14/pkd7rCj.png)](https://imgse.com/i/pkd7rCj)
